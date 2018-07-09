@@ -2,12 +2,10 @@
 
 
 
-
 generate_table_dict.py
-
 working python3 code to generate database tables dictionaries
 
-TABLE ADDONITEMS
+TABLE ADDONITEMS 
 Field,Type,Null,Key,Default,Extra
 Id,char(36),NO,PRI,,
 CategoryId,char(36),YES,MUL,,
